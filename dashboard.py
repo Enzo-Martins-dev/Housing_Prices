@@ -8,7 +8,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 import numpy as np
 
 
-df = pd.read_csv('df_housing_clean.csv')
+df = pd.read_csv('datasets/housing_clean.csv')
 
 
 app = Dash(__name__)
