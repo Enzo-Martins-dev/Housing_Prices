@@ -1,5 +1,8 @@
 # Gráfico 1
-    O gráfico mostra um crescimento quase linear entre a renda da população e o valor da casa, indicando que pessoas de maior poder aquisitivo possuem maior tendência a investir um valor maior na sua moradia. Além disso, regiões próximas à baia possuem uma diferença maior entre o valor da casa e a renda da população, indicando que elas sofreram uma maior valorização ao longo do tempo. Portanto, provavelmente será mais vantajoso investir em imóveis nessa localidade em comparação às demais presentes no gráfico.
+    O gráfico mostra um crescimento quase linear entre a renda da população e o valor da casa, indicando que pessoas de maior poder aquisitivo possuem maior tendência a   
+    investir um valor maior na sua moradia. Além disso, regiões próximas à baia possuem uma diferença maior entre o valor da casa e a renda da população, indicando que   
+    elas sofreram uma maior valorização ao longo do tempo. Portanto, provavelmente será mais vantajoso investir em imóveis nessa localidade em comparação às demais   
+    presentes no gráfico.
 
 
 # Gráfico 2
