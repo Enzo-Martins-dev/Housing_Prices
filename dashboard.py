@@ -58,9 +58,9 @@ app.layout = html.Div([
     html.Br(),
     dcc.Graph(id='correlation_heatmap'),
     html.Br(),
-    dcc.Graph(id='regression_scatter'),  # Adicionado para o gráfico de regressão
+    dcc.Graph(id='regression_scatter'),  
     html.Br(),
-    dcc.Graph(id='residuals_plot'),  # Adicionado para os resíduos
+    dcc.Graph(id='residuals_plot'),  
     html.Br(),
     html.Div(id='regression_results', style={'textAlign': 'center', 'fontSize': '20px', 'margin': '20px'}),
     html.Br(),
@@ -75,8 +75,8 @@ app.layout = html.Div([
      Output('correlation_heatmap', 'figure'),
      Output('regression_results', 'children'),
      Output('insights', 'children'),
-     Output('regression_scatter', 'figure'),  # Retorno do gráfico de regressão
-     Output('residuals_plot', 'figure')],  # Retorno do gráfico de resíduos
+     Output('regression_scatter', 'figure'),  
+     Output('residuals_plot', 'figure')],  
     [Input('ocean_proximity_filter', 'value'),
      Input('income_filter', 'value')]
 )
